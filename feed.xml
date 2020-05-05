@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <id>urn:iweb:B0DEE968-2FEB-463A-9F28-1A7A3D916A9E</id>
+ <title>Page list Atom feed</title>
+ <updated>2020-05-05T14:35:49-07:00</updated>
+ <link rel="self" href="feed.xml"/>
+ <generator>iWeb</generator>
+ <author>
+  <name>iWeb</name>
+ </author>
+ <entry>
+  <id>urn:iweb:7C5821D4-D963-4C59-98A0-49886ADB89BC</id>
+  <title>Welcome</title>
+  <title xmlns="urn:iweb:">Welcome</title>
+  <in-navbar xmlns="urn:iweb:">7C5821D4-D963-4C59-98A0-49886ADB89BC</in-navbar>
+  <link rel="alternate" href="Welcome.html"/>
+  <updated>2020-05-05T14:35:49.001-07:00</updated>
+  <content>Welcome</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:78880BAB-F2AA-436A-9DD6-FEC2C9DAC2B4</id>
+  <title>The Items</title>
+  <title xmlns="urn:iweb:">The Items</title>
+  <in-navbar xmlns="urn:iweb:">78880BAB-F2AA-436A-9DD6-FEC2C9DAC2B4</in-navbar>
+  <link rel="alternate" href="The_Items.html"/>
+  <updated>2020-05-05T14:35:49.002-07:00</updated>
+  <content>The Items</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:752C17CA-273E-4517-B17B-8B125EC9A4D8</id>
+  <title>about the item</title>
+  <title xmlns="urn:iweb:">about the item</title>
+  <in-navbar xmlns="urn:iweb:">752C17CA-273E-4517-B17B-8B125EC9A4D8</in-navbar>
+  <link rel="alternate" href="about_the_item.html"/>
+  <updated>2020-05-05T14:35:49.003-07:00</updated>
+  <content>about the item</content>
+ </entry>
+</feed>
